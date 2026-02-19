@@ -18,7 +18,7 @@ This repository contains data files used by METU App:
 
 ```
 metuapp-files/
-├── cafeteria_config.json   # Cafeteria operating hours and pricing
+├── cafeteria_hours.json    # Cafeteria operating hours
 ├── semester_dates.json     # Academic calendar dates
 ├── images/                 # App UI images
 │   ├── fruits.png
@@ -53,9 +53,9 @@ We welcome contributions! Here's how you can help:
 3. Place in the appropriate weather condition folder
 4. Submit a pull request
 
-### Updating Cafeteria Configuration
+### Updating Cafeteria Hours
 
-1. Edit `cafeteria_config.json`
+1. Edit `cafeteria_hours.json`
 2. Follow the existing JSON structure
 3. Ensure valid JSON syntax
 4. Submit a pull request
@@ -95,9 +95,9 @@ We welcome contributions! Here's how you can help:
 
 ## 📝 File Formats
 
-### cafeteria_config.json
+### cafeteria_hours.json
 
-Cafeteria operating hours and pricing information:
+Meal service times for the cafeteria:
 
 ```json
 {
@@ -105,8 +105,7 @@ Cafeteria operating hours and pricing information:
   "weekend_lunch_start": "12:00",
   "lunch_end": "14:00",
   "dinner_start": "17:00",
-  "dinner_end": "19:30",
-  "price": 40.0
+  "dinner_end": "19:30"
 }
 ```
 
@@ -116,7 +115,6 @@ Cafeteria operating hours and pricing information:
 - `lunch_end`: Lunch end time (HH:MM format)
 - `dinner_start`: Dinner start time (HH:MM format)
 - `dinner_end`: Dinner end time (HH:MM format)
-- `price`: Meal price in Turkish Lira (decimal number)
 
 ### semester_dates.json
 
