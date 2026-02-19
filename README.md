@@ -33,11 +33,7 @@ metuapp-files/
 │   └── index.json
 ├── map_assets/              # Map location data and assets
 │   ├── locations.csv        # Campus locations database
-│   ├── polo.png            # Car marker image
-│   ├── pin.svg             # Pin icon
-│   ├── pin.svg.vec         # Pin icon (vector format)
-│   └── old/                # Legacy map assets
-│       └── hitchhiker.png
+│   └── images/              # Location images referenced in locations.csv
 └── gtfs_feeds/              # GTFS transit data for METU Ring
     ├── agency.txt          # Transit agency information
     ├── routes.txt          # Bus route definitions
