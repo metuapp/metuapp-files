@@ -1,0 +1,520 @@
+{
+    "clear": {
+        "spring": [
+            {
+                "file": "clear/day/spring/Artun Özsoy--2025--spring.jpg",
+                "author": "Artun Özsoy",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/spring/Seda Nur Çiçek--2025.jpg",
+                "author": "Seda Nur Çiçek",
+                "year": "2025"
+            }
+        ],
+        "summer": [
+            {
+                "file": "clear/day/summer/Artun Özsoy--2025--summer.jpg",
+                "author": "Artun Özsoy",
+                "year": "2025"
+            }
+        ],
+        "fall": [
+            {
+                "file": "clear/day/fall/Zübeyir Çoban--2024--16.11.2024.JPG",
+                "author": "Zübeyir Çoban",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/fall/Zübeyir Çoban--2024--16.11.2024.JPG",
+                "author": "Zübeyir Çoban",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/fall/Zübeyir Çoban--2024--16.11.2024.JPG",
+                "author": "Zübeyir Çoban",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/fall/Oğuzhan Murat Özarslan--2022--APC.JPG",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2022"
+            },
+            {
+                "file": "clear/day/fall/Oğuzhan Murat Özarslan--2022--APC.JPG",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2022"
+            },
+            {
+                "file": "clear/day/fall/Oğuzhan Murat Özarslan--2022--APC.JPG",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2022"
+            },
+            {
+                "file": "clear/day/fall/Bora Özkan--2021--Oct29.jpg",
+                "author": "Bora Özkan",
+                "year": "2021"
+            },
+            {
+                "file": "clear/day/fall/Umut Akmaz--2022--sunny.jpg",
+                "author": "Umut Akmaz",
+                "year": "2022"
+            },
+            {
+                "file": "clear/day/fall/Umut Akmaz--2022--sunny.jpg",
+                "author": "Umut Akmaz",
+                "year": "2022"
+            }
+        ],
+        "winter": [
+            {
+                "file": "clear/day/winter/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/winter/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/winter/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/winter/Meryem Arpacı--2025--winter.jpg",
+                "author": "Meryem Arpacı",
+                "year": "2025"
+            }
+        ],
+        "default": [
+            {
+                "file": "clear/day/default/İdil Deveci--2025--1000173278.jpg",
+                "author": "İdil Deveci",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/default/İdil Deveci--2025--1000173278.jpg",
+                "author": "İdil Deveci",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/default/Zübeyir Çoban--2024--16.11.2024.5.JPG",
+                "author": "Zübeyir Çoban",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/default/Emre Geçit--2025--20251121.jpg",
+                "author": "Emre Geçit",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/default/Emre Geçit--2025--20251121.jpg",
+                "author": "Emre Geçit",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/default/Bora Özkan--2022--Feb17.jpg",
+                "author": "Bora Özkan",
+                "year": "2022"
+            },
+            {
+                "file": "clear/day/default/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/default/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/default/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/default/Artun Özsoy--2025--spring.jpg",
+                "author": "Artun Özsoy",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/default/Artun Özsoy--2025--spring.jpg",
+                "author": "Artun Özsoy",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/default/Artun Özsoy--2025--spring.jpg",
+                "author": "Artun Özsoy",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/spring/Seda Nur Çiçek--2025.jpg",
+                "author": "Seda Nur Çiçek",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/spring/Seda Nur Çiçek--2025.jpg",
+                "author": "Seda Nur Çiçek",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/default/Oğuzhan Akbulut--2025.jpg",
+                "author": "Oğuzhan Akbulut",
+                "year": "2025"
+            },
+            {
+                "file": "clear/day/default/Umut Akmaz--2022--sunny.jpg",
+                "author": "Umut Akmaz",
+                "year": "2022"
+            },
+            {
+                "file": "clear/day/default/Pervin Cemalgil--2023--20231016_162801.jpg",
+                "author": "Pervin Cemalgil",
+                "year": "2023"
+            },
+            {
+                "file": "clear/day/default/Pervin Cemalgil--2024--20240312_150032.jpg",
+                "author": "Pervin Cemalgil",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/default/Pervin Cemalgil--2024--20240326_080330.jpg",
+                "author": "Pervin Cemalgil",
+                "year": "2024"
+            },
+            {
+                "file": "clear/day/default/Pervin Cemalgil--2024--20240326_082412.jpg",
+                "author": "Pervin Cemalgil",
+                "year": "2024"
+            },
+            {
+                "file": "clear/night/default/Yunus Emre Şayir--2025--night.jpg",
+                "author": "Yunus Emre Şayir",
+                "year": "2025"
+            },
+            {
+                "file": "clear/night/default/Yunus Emre Şayir--2025--night.jpg",
+                "author": "Yunus Emre Şayir",
+                "year": "2025"
+            }
+        ]
+    },
+    "partlyCloudy": {
+        "spring": [],
+        "summer": [
+            {
+                "file": "partlyCloudy/day/summer/Oğuzhan Murat Özarslan--2023--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2023"
+            },
+            {
+                "file": "partlyCloudy/day/summer/Osman Sefa Çelik--2023.jpg",
+                "author": "Osman Sefa Çelik",
+                "year": "2023"
+            }
+        ],
+        "fall": [],
+        "winter": [
+            {
+                "file": "partlyCloudy/day/winter/Umut Akmaz--2024--partly.jpg",
+                "author": "Umut Akmaz",
+                "year": "2024"
+            },
+            {
+                "file": "partlyCloudy/day/winter/İshak Kaan Bilgiç--2024--partly.jpg",
+                "author": "İshak Kaan Bilgiç",
+                "year": "2024"
+            }
+        ],
+        "default": [
+            {
+                "file": "partlyCloudy/day/default/Emre Geçit--2025--20250318.jpg",
+                "author": "Emre Geçit",
+                "year": "2025"
+            },
+            {
+                "file": "partlyCloudy/day/default/Emre Geçit--2025--20250318.jpg",
+                "author": "Emre Geçit",
+                "year": "2025"
+            },
+            {
+                "file": "partlyCloudy/day/default/Sude Doymaz--2025--IMG.jpeg",
+                "author": "Sude Doymaz",
+                "year": "2025"
+            },
+            {
+                "file": "partlyCloudy/day/default/Oğuzhan Murat Özarslan--2023--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2023"
+            },
+            {
+                "file": "partlyCloudy/day/default/Umut Akmaz--2024--partly.jpg",
+                "author": "Umut Akmaz",
+                "year": "2024"
+            },
+            {
+                "file": "partlyCloudy/day/default/Umut Akmaz--2025--partly.jpg",
+                "author": "Umut Akmaz",
+                "year": "2025"
+            },
+            {
+                "file": "partlyCloudy/day/default/İshak Kaan Bilgiç--2024--partly.jpg",
+                "author": "İshak Kaan Bilgiç",
+                "year": "2024"
+            },
+            {
+                "file": "partlyCloudy/day/default/Havva Eser Akgün--2025--1.jpg",
+                "author": "Havva Eser Akgün",
+                "year": "2025"
+            },
+            {
+                "file": "partlyCloudy/day/default/Havva Eser Akgün--2025--2.jpg",
+                "author": "Havva Eser Akgün",
+                "year": "2025"
+            },
+            {
+                "file": "partlyCloudy/day/default/Havva Eser Akgün--2025--3.jpg",
+                "author": "Havva Eser Akgün",
+                "year": "2025"
+            },
+            {
+                "file": "partlyCloudy/day/default/Osman Sefa Çelik--2022.jpg",
+                "author": "Osman Sefa Çelik",
+                "year": "2022"
+            },
+            {
+                "file": "partlyCloudy/day/default/Elif Delibal--2025.jpg",
+                "author": "Elif Delibal",
+                "year": "2025"
+            }
+        ]
+    },
+    "cloudy": {
+        "spring": [],
+        "summer": [],
+        "fall": [],
+        "winter": [],
+        "default": [
+            {
+                "file": "cloudy/day/default/Emre Geçit--2025--20250918.jpg",
+                "author": "Emre Geçit",
+                "year": "2025"
+            },
+            {
+                "file": "cloudy/day/default/Atik Faysal Fardin--2025--20251201.jpg",
+                "author": "Atik Faysal Fardin",
+                "year": "2025"
+            },
+            {
+                "file": "cloudy/day/default/Sude Doymaz--2025--IMG.jpeg",
+                "author": "Sude Doymaz",
+                "year": "2025"
+            },
+            {
+                "file": "cloudy/day/default/Pervin Cemalgil--2023--20231113_151329.jpg",
+                "author": "Pervin Cemalgil",
+                "year": "2023"
+            },
+            {
+                "file": "cloudy/day/default/Pervin Cemalgil--2023--20231118_101245.jpg",
+                "author": "Pervin Cemalgil",
+                "year": "2023"
+            },
+            {
+                "file": "cloudy/day/default/Pervin Cemalgil--2023--20231129_144614.jpg",
+                "author": "Pervin Cemalgil",
+                "year": "2023"
+            },
+            {
+                "file": "cloudy/day/default/Pervin Cemalgil--2023--20231208_120440.jpg",
+                "author": "Pervin Cemalgil",
+                "year": "2023"
+            },
+            {
+                "file": "cloudy/day/default/Pervin Cemalgil--2024--20240420_135603.jpg",
+                "author": "Pervin Cemalgil",
+                "year": "2024"
+            }
+        ]
+    },
+    "rainy": {
+        "spring": [],
+        "summer": [],
+        "fall": [],
+        "winter": [],
+        "default": [
+            {
+                "file": "rainy/day/default/İdil Deveci--2025--1000162646.jpg",
+                "author": "İdil Deveci",
+                "year": "2025"
+            },
+            {
+                "file": "rainy/day/default/Bora Özkan--2021--Dec19.jpg",
+                "author": "Bora Özkan",
+                "year": "2021"
+            },
+            {
+                "file": "rainy/day/default/Zeynep Bestenur Yalçınkaya--2025--image0.jpeg",
+                "author": "Zeynep Bestenur Yalçınkaya",
+                "year": "2025"
+            },
+            {
+                "file": "rainy/day/default/4m--2021--rainy.jpg",
+                "author": "4m",
+                "year": "2021"
+            }
+        ]
+    },
+    "snowy": {
+        "spring": [],
+        "summer": [],
+        "fall": [
+            {
+                "file": "snowy/day/fall/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/day/fall/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/day/fall/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/day/fall/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            }
+        ],
+        "winter": [],
+        "default": [
+            {
+                "file": "snowy/day/default/Zübeyir Çoban--2024--24.11.2024.2.JPG",
+                "author": "Zübeyir Çoban",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/day/default/Zübeyir Çoban--2024--24.11.2024.2.JPG",
+                "author": "Zübeyir Çoban",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/day/default/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/day/default/Bora Özkan--2022--Jan22.jpg",
+                "author": "Bora Özkan",
+                "year": "2022"
+            },
+            {
+                "file": "snowy/day/default/Bora Özkan--2024--March21.jpg",
+                "author": "Bora Özkan",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/day/default/Bora Özkan--2024--March21.jpg",
+                "author": "Bora Özkan",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/day/default/Unknown--2023--snowy.jpg",
+                "author": "Unknown",
+                "year": "2023"
+            },
+            {
+                "file": "snowy/night/default/Yunus Emre Şayir--2025--DSCF13113.JPG",
+                "author": "Yunus Emre Şayir",
+                "year": "2025"
+            },
+            {
+                "file": "snowy/night/default/Yunus Emre Şayir--2025--DSCF13113.JPG",
+                "author": "Yunus Emre Şayir",
+                "year": "2025"
+            },
+            {
+                "file": "snowy/night/default/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/night/default/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/night/default/Oğuzhan Murat Özarslan--2024--IMG.jpg",
+                "author": "Oğuzhan Murat Özarslan",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/night/default/Seray Suna--2024--IMG.jpeg",
+                "author": "Seray Suna",
+                "year": "2024"
+            },
+            {
+                "file": "snowy/night/default/Mustafa Korkmaz--2025.jpg",
+                "author": "Mustafa Korkmaz",
+                "year": "2025"
+            },
+            {
+                "file": "snowy/night/default/Mustafa Korkmaz--2024.jpg",
+                "author": "Mustafa Korkmaz",
+                "year": "2024"
+            }
+        ]
+    },
+    "foggy": {
+        "spring": [],
+        "summer": [],
+        "fall": [],
+        "winter": [],
+        "default": [
+            {
+                "file": "foggy/day/default/Burak Hakkı Kuzgun--2019--foggy.jpg",
+                "author": "Burak Hakkı Kuzgun",
+                "year": "2019"
+            },
+            {
+                "file": "foggy/day/default/Havva Eser Akgün--2025--1.jpg",
+                "author": "Havva Eser Akgün",
+                "year": "2025"
+            },
+            {
+                "file": "foggy/day/default/Havva Eser Akgün--2025--2.jpg",
+                "author": "Havva Eser Akgün",
+                "year": "2025"
+            },
+            {
+                "file": "foggy/night/default/Yunus Emre Şayir--2025--DSCF14445.jpg",
+                "author": "Yunus Emre Şayir",
+                "year": "2025"
+            },
+            {
+                "file": "foggy/night/default/Zeynep Bestenur Yalçınkaya--2025--image0.jpeg",
+                "author": "Zeynep Bestenur Yalçınkaya",
+                "year": "2025"
+            }
+        ]
+    },
+    "stormy": {
+        "spring": [],
+        "summer": [],
+        "fall": [],
+        "winter": [],
+        "default": [
+            {
+                "file": "stormy/day/default/Atik Faysal Fardin--2025--20251124.jpg",
+                "author": "Atik Faysal Fardin",
+                "year": "2025"
+            }
+        ]
+    }
+}

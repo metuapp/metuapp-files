@@ -1,0 +1,10 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+lacivert-ring,tim,Navy,Navy Ring,3,0000FF
+acik-kahverengi-ring,tim,Light Brown,Light Brown Ring,3,F4A460
+mor-ring,tim,Purple,Purple Ring,3,9600CD
+turkuaz-ring,tim,Turquoise,Turquoise Ring,3,00FFFF
+turuncu-ring,tim,Orange,Orange Ring,3,FFA500
+gri-ring-gunduz,tim,Gray Day,Gray Ring Day,3,737373
+gri-ring-aksam,tim,Gray Night,Gray Ring Night,3,737373
+sari-ring,tim,Yellow,Yellow Ring,3,ffff57
+kirmizi-ring,tim,Red,Red Ring,3,ff0000

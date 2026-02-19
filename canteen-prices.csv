@@ -1,0 +1,48 @@
+Key,Ürün,Boy,Yer,Restoran,Yiyecek/İçecek,Tür,Alt Tür,F 06/25
+1,Günün Çorbası,Standart,Çarşı,BBQ Station,Yiyecek,Sulu Yemek,Çorba,75
+2,Lahmacun ,130gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Lahmacun,165
+3,Antep Lahmacun,130gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Lahmacun,175
+4,Kaşarlı Pide,Standart,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Lahmacun,275
+5,Kıymalı Pide,Standart,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Lahmacun,280
+6,Kuşbaşılı Pide,Standart,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Lahmacun,310
+7,Karışık Pide,Standart,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Lahmacun,320
+8,Kaşar veya yumurta ek ,Standart,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Ek ,30
+9,Balık Ekmek Uskumru,250gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Balık Ekmek Arası,180
+10,Tavuk Şiş Dürüm,150gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Tavuk Dürüm,245
+11,Tavuk Şiş Ekmek Arası,150gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Tavuk Ekmek Arası,
+12,Tavuk İskender ,150gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Tavuk Kebap,280
+13,Tavuk Külbastı,200gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Tavuk Kebap,280
+14,Tavuk Şiş Göğüs,180gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Tavuk Izgara,255
+15,Tavuk But Dürüm,180gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Tavuk Dürüm,
+16,Tavuk But Ekmek Arası,180 gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Tavuk Ekmek Arası,
+17,Tavuk Şiş (But),180gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Tavuk Izgara,270
+18,Adana Dürüm,120gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Tavuk Ekmek Arası,285
+19,Adana Ekmek Arası,120gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Tavuk Dürüm,
+20,Tavuk Kanat,300gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Tavuk Izgara,290
+21,Kokoreç,130gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Ekmek Arası,290
+22,Köfte Ekmek,200gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,Köfte Ekmek Arası,290
+23,Köfte Servis,200gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Köfte Servis,310
+24,Sucuk Ekmek,150gr,Çarşı,BBQ Station,Yiyecek,Hızlı Yemek ,sucuk ekmek,290
+25,Çupra ,500gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Balık Izgara,390
+26,Levrek,500gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Balık Izgara,390
+27,Adana Kebap,150gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Kebap,390
+28,Beyti,150gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Kebap,395
+29,Yoğurtlu Kebap,150gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Kebap,395
+30,Dana Külbastı,200gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Kebap,590
+31,Karışık Izgara,300gr,Çarşı,BBQ Station,Yiyecek,Servis Yemek,Kebap,550
+32,Su,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,15
+33,Soda,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,40
+34,Türk Kahvesi,Standart,Çarşı,BBQ Station,İçecek,Sıcak İçecek ,Kahve,80
+35,Ayran,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,50
+36,Şalgam (acılı/acısız),Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,60
+37,Cappy Meyve Suyu Çeşitleri,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,60
+38,Fuse Tea ,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,60
+39,Sprite ,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,60
+40,Fanta,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,60
+41,Coca Cola,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,60
+42,Monster Energy,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,85
+43,Limonata,Standart,Çarşı,BBQ Station,İçecek,Soğuk İçecek,Meşrubat,90
+44,Tatlı Çeşitleri,Standart,Çarşı,BBQ Station,Yiyecek ,Tatlı,,75
+,,,,,,,,
+,Menüden çıkarılanlar,,,,,,,
+,Menüye eklenenler,,,,,,,
