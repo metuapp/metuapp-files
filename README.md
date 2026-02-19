@@ -205,7 +205,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Projects
 
-- [METU App](https://github.com/metuapp/metuapp) - Main application repository
 - [METU App Website](https://metuapp.ceng.metu.edu.tr) - Official website
 
 ---
