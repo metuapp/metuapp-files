@@ -11,6 +11,7 @@ This repository contains data files used by METU App:
 - **Weather Images**: User-contributed campus weather photos
 - **Notifications**: Content for in-app notifications
 - **App Images**: UI assets and icons
+- **Map Assets**: Campus location data and map marker images
 
 ## 🚀 Quick Start
 
@@ -44,8 +45,15 @@ metuapp-files/
 │   ├── cloudy/
 │   ├── partlyCloudy/
 │   └── stormy/
-└── notifications/           # Notification content
-    └── index.json
+├── notifications/           # Notification content
+│   └── index.json
+└── map_assets/              # Map location data and assets
+    ├── locations.csv        # Campus locations database
+    ├── polo.png            # Car marker image
+    ├── pin.svg             # Pin icon
+    ├── pin.svg.vec         # Pin icon (vector format)
+    └── old/                # Legacy map assets
+        └── hitchhiker.png
 ```
 
 ## 🤝 Contributing
@@ -73,6 +81,31 @@ We welcome contributions! Here's how you can help:
 2. Add new academic calendar dates
 3. Ensure dates are in ISO format (YYYY-MM-DD)
 4. Submit a pull request
+
+### Contributing Map Locations
+
+1. Edit `map_assets/locations.csv`
+2. Add new locations following the CSV format:
+   - `latitude`: Decimal degrees (e.g., 39.892239)
+   - `longitude`: Decimal degrees (e.g., 32.783748)
+   - `name`: Location name (e.g., "Department of Computer Engineering")
+   - `location_type`: Category (e.g., "Academic Buildings", "Dining", "Services")
+   - `language`: Language code (e.g., "en", "tr")
+   - `link`: Optional photo URL
+3. Ensure valid CSV format (comma-separated, proper escaping)
+4. Verify coordinates are accurate
+5. Submit a pull request
+
+### Contributing Map Images
+
+1. Add map marker images to `map_assets/`
+2. Supported formats: PNG, SVG, WebP
+3. For SVG files, also provide `.vec` version (vector_graphics format)
+4. Recommended sizes:
+   - Marker icons: 30-50px
+   - Vehicle markers: 50-100px
+5. Follow naming conventions (e.g., `polo.png`, `pin.svg`)
+6. Submit a pull request
 
 ## 📝 File Formats
 
@@ -115,6 +148,31 @@ We welcome contributions! Here's how you can help:
 }
 ```
 
+### locations.csv
+
+CSV format for campus locations:
+
+```csv
+latitude,longitude,name,location_type,language,link
+39.892239,32.783748,Academic Writing Center,Academic Buildings,en,https://example.com/photo.jpg
+39.884664,32.778206,Department of Aerospace Engineering,Academic Buildings,en,https://example.com/photo2.jpg
+```
+
+**Fields:**
+- `latitude`: Decimal degrees (WGS84)
+- `longitude`: Decimal degrees (WGS84)
+- `name`: Location name (can contain commas if properly escaped)
+- `location_type`: Category (Academic Buildings, Dining, Services, etc.)
+- `language`: Language code ("en" or "tr")
+- `link`: Optional photo URL (can be empty)
+
+**Guidelines:**
+- Use WGS84 coordinate system
+- Verify coordinates using Google Maps or similar
+- Escape commas in names with quotes: `"Department, Name"`
+- Keep location types consistent
+- Provide photo URLs when available
+
 ## 🔧 Technical Details
 
 ### Git LFS
@@ -131,10 +189,15 @@ git clone https://github.com/metuapp/metuapp-files.git
 
 ### Image Guidelines
 
-- **Format**: JPG, PNG, WebP
+- **Format**: JPG, PNG, WebP, SVG
 - **Size**: Recommended max 5MB per image
-- **Resolution**: Minimum 1920x1080 for weather images
-- **Naming**: `Author Name--Year--description.extension`
+- **Resolution**: 
+  - Weather images: Minimum 1920x1080
+  - Map markers: 30-100px (icons), 50-100px (vehicles)
+- **Naming**: 
+  - Weather images: `Author Name--Year--description.extension`
+  - Map assets: Descriptive names (e.g., `polo.png`, `pin.svg`)
+- **Vector Graphics**: For SVG files, also provide `.vec` version using vector_graphics_compiler
 
 ## 📄 License
 
@@ -143,6 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - All weather image contributors
+- Map location data contributors
 - METU App development team
 - METU community
 
