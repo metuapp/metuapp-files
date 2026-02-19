@@ -77,10 +77,22 @@ We welcome contributions! Here's how you can help:
    - `name`: Location name (e.g., "Department of Computer Engineering")
    - `location_type`: Category (e.g., "Academic Buildings", "Dining", "Services")
    - `language`: Language code (e.g., "en", "tr")
-   - `link`: Optional photo URL
+   - `link`: Optional photo URL (can be external URL or path to image in `map_assets/images/`)
 3. Ensure valid CSV format (comma-separated, proper escaping)
 4. Verify coordinates are accurate
 5. Submit a pull request
+
+### Contributing Location Images
+
+1. Add location images to `map_assets/images/`
+2. Supported formats: JPG, PNG, WebP
+3. Recommended size: Minimum 1920x1080, max 5MB per image
+4. Naming: Use descriptive names (e.g., `department-of-computer-engineering.jpg`)
+5. Update `locations.csv` to reference the image:
+   - Use relative path: `map_assets/images/your-image.jpg`
+   - Or use external URL if hosting elsewhere
+6. Ensure images are of good quality and show the location clearly
+7. Submit a pull request
 
 ### Contributing Map Images
 
