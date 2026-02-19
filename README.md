@@ -19,7 +19,6 @@ This repository contains data files used by METU App:
 ```
 metuapp-files/
 ├── cafeteria_hours.json    # Cafeteria operating hours
-├── canteen-prices.csv      # Canteen pricing data
 ├── semester_dates.json     # Academic calendar dates
 ├── images/                 # App UI images
 │   ├── fruits.png
