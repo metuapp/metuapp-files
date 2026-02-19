@@ -12,6 +12,7 @@ This repository contains data files used by METU App:
 - **Notifications**: Content for in-app notifications
 - **App Images**: UI assets and icons
 - **Map Assets**: Campus location data and map marker images
+- **Ring Data**: GTFS transit data for METU Ring bus system
 
 ## 📂 Structure
 
@@ -30,13 +31,20 @@ metuapp-files/
 │   └── stormy/
 ├── notifications/           # Notification content
 │   └── index.json
-└── map_assets/              # Map location data and assets
-    ├── locations.csv        # Campus locations database
-    ├── polo.png            # Car marker image
-    ├── pin.svg             # Pin icon
-    ├── pin.svg.vec         # Pin icon (vector format)
-    └── old/                # Legacy map assets
-        └── hitchhiker.png
+├── map_assets/              # Map location data and assets
+│   ├── locations.csv        # Campus locations database
+│   ├── polo.png            # Car marker image
+│   ├── pin.svg             # Pin icon
+│   ├── pin.svg.vec         # Pin icon (vector format)
+│   └── old/                # Legacy map assets
+│       └── hitchhiker.png
+└── gtfs_feeds/              # GTFS transit data for METU Ring
+    ├── agency.txt          # Transit agency information
+    ├── routes.txt          # Bus route definitions
+    ├── stops.txt           # Bus stop locations
+    ├── trips.txt           # Trip schedules
+    ├── stop_times.txt      # Stop times for each trip
+    └── calendar.txt        # Service calendar
 ```
 
 ## 🤝 Contributing
