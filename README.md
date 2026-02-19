@@ -13,22 +13,6 @@ This repository contains data files used by METU App:
 - **App Images**: UI assets and icons
 - **Map Assets**: Campus location data and map marker images
 
-## 🚀 Quick Start
-
-### Using as a Submodule
-
-This repository is typically used as a Git submodule in the main METU App repository:
-
-```bash
-git submodule add https://github.com/metuapp/metuapp-files.git website/metuapp_files
-```
-
-### Cloning with Submodules
-
-```bash
-git clone --recurse-submodules https://github.com/metuapp/metuapp.git
-```
-
 ## 📂 Structure
 
 ```
