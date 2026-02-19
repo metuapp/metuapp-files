@@ -94,17 +94,6 @@ We welcome contributions! Here's how you can help:
 6. Ensure images are of good quality and show the location clearly
 7. Submit a pull request
 
-### Contributing Map Images
-
-1. Add map marker images to `map_assets/`
-2. Supported formats: PNG, SVG, WebP
-3. For SVG files, also provide `.vec` version (vector_graphics format)
-4. Recommended sizes:
-   - Marker icons: 30-50px
-   - Vehicle markers: 50-100px
-5. Follow naming conventions (e.g., `polo.png`, `pin.svg`)
-6. Submit a pull request
-
 ## 📝 File Formats
 
 ### cafeteria_hours.json
