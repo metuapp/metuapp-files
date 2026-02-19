@@ -24,7 +24,6 @@ metuapp-files/
 │   ├── fruits.png
 │   └── vegetarian.png
 ├── weather/                # Weather images (Git LFS)
-│   ├── weather_images.json
 │   ├── clear/
 │   ├── cloudy/
 │   ├── partlyCloudy/
@@ -49,8 +48,7 @@ We welcome contributions! Here's how you can help:
 1. Take a photo of METU campus in different weather conditions
 2. Follow the naming convention: `Your Name--Year--description.jpg`
 3. Place in the appropriate weather condition folder
-4. Update `weather/weather_images.json` with metadata
-5. Submit a pull request
+4. Submit a pull request
 
 ### Updating Cafeteria Hours
 
@@ -95,42 +93,47 @@ We welcome contributions! Here's how you can help:
 
 ### cafeteria_hours.json
 
+Meal service times for the cafeteria:
+
 ```json
 {
-  "cafeteria_name": {
-    "days": ["Monday", "Tuesday", ...],
-    "hours": "08:00-18:00",
-    "notes": "Optional notes"
-  }
+  "weekday_lunch_start": "11:30",
+  "weekend_lunch_start": "12:00",
+  "lunch_end": "14:00",
+  "dinner_start": "17:00",
+  "dinner_end": "19:30"
 }
 ```
+
+**Fields:**
+- `weekday_lunch_start`: Lunch start time on weekdays (HH:MM format)
+- `weekend_lunch_start`: Lunch start time on weekends (HH:MM format)
+- `lunch_end`: Lunch end time (HH:MM format)
+- `dinner_start`: Dinner start time (HH:MM format)
+- `dinner_end`: Dinner end time (HH:MM format)
 
 ### semester_dates.json
 
-```json
-{
-  "semester": "Fall 2025",
-  "start_date": "2025-09-15",
-  "end_date": "2025-12-20",
-  "holidays": ["2025-10-29", "2025-11-10"]
-}
-```
-
-### weather_images.json
+Current and next semester dates:
 
 ```json
 {
-  "condition": {
-    "season": [
-      {
-        "file": "path/to/image.jpg",
-        "author": "Your Name",
-        "year": "2025"
-      }
-    ]
+  "current_semester": {
+    "start_date": "2026-02-16",
+    "end_date": "2026-06-05"
+  },
+  "next_semester": {
+    "start_date": "2026-07-13",
+    "end_date": "2026-08-21"
   }
 }
 ```
+
+**Fields:**
+- `current_semester`: Object containing start and end dates for the current semester
+- `next_semester`: Object containing start and end dates for the next semester
+- `start_date`: Semester start date in ISO format (YYYY-MM-DD)
+- `end_date`: Semester end date in ISO format (YYYY-MM-DD)
 
 ### locations.csv
 
