@@ -188,7 +188,6 @@ git clone https://github.com/metuapp/metuapp-files.git
 - **Naming**: 
   - Weather images: `Author Name--Year--description.extension`
   - Map assets: Descriptive names (e.g., `polo.png`, `pin.svg`)
-- **Vector Graphics**: For SVG files, also provide `.vec` version using vector_graphics_compiler
 
 ## 📄 License
 
