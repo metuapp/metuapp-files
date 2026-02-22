@@ -6,7 +6,7 @@ Open-source data files for [METU App](https://metuapp.ceng.metu.edu.tr) - a comp
 
 This repository contains data files used by METU App:
 
-- **Cafeteria Data**: Operating hours and pricing information
+- **Cafeteria Data**: Operating hours
 - **Academic Calendar**: Semester dates and important dates
 - **Weather Images**: User-contributed campus weather photos
 - **Notifications**: Content for in-app notifications
