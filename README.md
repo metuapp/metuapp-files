@@ -47,6 +47,7 @@ metuapp-files/
 We welcome contributions! Here's how you can help:
 
 ### Contributing Weather Images
+Please make sure you are submitting high-quality, photos. Low-quality or bad looking submissions will be rejected.
 
 1. Take a photo of METU campus in different weather conditions
 2. Follow the naming convention: `Your Name--Year--description.jpg`
